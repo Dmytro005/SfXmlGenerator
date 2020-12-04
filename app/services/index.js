@@ -22,7 +22,6 @@ async function generateDeployFolder({ count, generator, prefix }) {
 }
 
 async function zipDeployFolder(filesCount, filesPrefix) {
-  console.log(`generated ${filesCount} flows with links on each other`);
   const zipFilename = `./dist/${filesCount}-${filesPrefix}-Flows.zip`;
 
   const output = fs.createWriteStream(zipFilename);
@@ -35,7 +34,9 @@ async function zipDeployFolder(filesCount, filesPrefix) {
   archive.directory(DEPLOY_DIR, false);
   archive.pipe(output);
   archive.finalize();
-  console.log(`successfully archived ${zipFilename}`);
+
+  console.log(`Successfully archived data set in ${zipFilename}`);
+
   return Promise.resolve();
 }
 
@@ -50,9 +51,6 @@ module.exports.generate = async (entity, count, prefix) => {
       count,
       generator: flowService.generateSet,
     }).catch(console.error);
-
-
-    console.log({ membersNames });
 
     await packageService.writePackageXML(membersNames, DEPLOY_DIR);
 

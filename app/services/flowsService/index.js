@@ -19,7 +19,6 @@ async function generateSet(i, deployPrefix, deployDir) {
 
   const flowsDirPath = path.normalize(deployDir + "/flows");
 
-  console.log({ flowsDirPath });
   const existsDir = fs.existsSync(flowsDirPath);
 
   if (!existsDir) {
