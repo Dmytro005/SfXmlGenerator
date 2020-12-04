@@ -8,5 +8,5 @@ module.exports.filename = `package.xml`;
 
 module.exports.writePackageXML = (membersNames, deployDir) => {
   const xml = generatePackageXml(membersNames);
-  return writeAsync(`${deployDir}${this.filename}`, xml);
+  return writeAsync(`${deployDir}/${this.filename}`, xml);
 };

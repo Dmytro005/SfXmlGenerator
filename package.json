@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "node ./app/index.js"
+    "generate": "node app/services/index.js"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,8 @@
   "dependencies": {
     "archiver": "^5.0.2",
     "bluebird": "^3.7.2",
-    "fs-extra": "^9.0.1"
+    "commander": "^6.2.0",
+    "fs-extra": "^9.0.1",
+    "prettier": "^2.2.1"
   }
 }

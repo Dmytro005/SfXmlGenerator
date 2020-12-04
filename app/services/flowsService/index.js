@@ -3,8 +3,7 @@ const { promisify } = require("util");
 const fsExtra = require("fs-extra");
 const Promise = require("bluebird");
 const writeAsync = promisify(fs.writeFile);
-
-const FLOWS_DIR_NAME = "flows";
+const path = require("path");
 
 const filesGenFuncs = [
   require("./rootFlow"),
@@ -17,9 +16,15 @@ const filesGenFuncs = [
 
 async function generateSet(i, deployPrefix, deployDir) {
   const membersNames = [];
-  const flowsDirPath = `${deployDir}${FLOWS_DIR_NAME}`;
 
-  await fsExtra.mkdir(flowsDirPath);
+  const flowsDirPath = path.normalize(deployDir + "/flows");
+
+  console.log({ flowsDirPath });
+  const existsDir = fs.existsSync(flowsDirPath);
+
+  if (!existsDir) {
+    await fsExtra.mkdir(flowsDirPath);
+  }
 
   await Promise.map(filesGenFuncs, (func) => {
     const r = func(`${deployPrefix}_${i}`);
