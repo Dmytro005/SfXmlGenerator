@@ -6,7 +6,7 @@ const generatePackageXml = require("./package");
 
 module.exports.filename = `package.xml`;
 
-module.exports.writePackageXML = (membersNames, deployDir) => {
-  const xml = generatePackageXml(membersNames);
+module.exports.writePackageXML = (membersNames, membersType, deployDir) => {
+  const xml = generatePackageXml(membersNames, membersType);
   return writeAsync(`${deployDir}/${this.filename}`, xml);
 };

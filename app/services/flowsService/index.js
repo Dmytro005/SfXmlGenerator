@@ -14,6 +14,13 @@ const filesGenFuncs = [
   require("./testSubflow3"),
 ];
 
+/**
+ *
+ * @param {number} i
+ * @param {string} deployPrefix
+ * @param {string} deployDir
+ * @returns {Promise<[]>}
+ */
 async function generateSet(i, deployPrefix, deployDir) {
   const membersNames = [];
 
@@ -29,13 +36,24 @@ async function generateSet(i, deployPrefix, deployDir) {
     const r = func(`${deployPrefix}_${i}`);
     const [flowName] = r.filename.split(".");
     membersNames.push(flowName);
-    const r2 = writeAsync(`${flowsDirPath}/${r.filename}`, r.xml);
-    return r2;
+    return writeAsync(`${flowsDirPath}/${r.filename}`, r.xml);
   });
   return membersNames;
 }
 
+async function generateDeployFolder(count, prefix, deployDir) {
+  let membersNames = [];
+
+  for (let i = 0; i < count; i++) {
+    const newNames = await generateSet(count, prefix, deployDir);
+    membersNames = [...membersNames, ...newNames];
+  }
+
+  return membersNames;
+}
+
 module.exports = {
-  generateSet,
-  filesGenFuncs,
+  generateSet: generateDeployFolder,
+  membersType: "Flow",
+  entitiesInSet: filesGenFuncs.length,
 };

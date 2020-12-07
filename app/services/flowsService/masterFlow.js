@@ -1,5 +1,7 @@
 module.exports = (i) => {
-  return { filename: `Master_Flow${i}.flow`, xml: `<?xml version="1.0" encoding="UTF-8"?>
+  return {
+    filename: `Master_Flow${i}.flow`,
+    xml: `<?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <decisions>
         <description>Too much for me</description>
@@ -84,5 +86,6 @@ module.exports = (i) => {
         <flowName>Test_Subflow_3${i}</flowName>
     </subflows>
 </Flow>
-`}
-}
+`,
+  };
+};

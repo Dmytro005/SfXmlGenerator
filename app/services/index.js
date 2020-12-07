@@ -9,20 +9,32 @@ const DEPLOY_DIR = path.normalize(__dirname + "../../../deploy");
 
 const packageService = require("./packageService");
 const flowService = require("./flowsService");
+const emailAlerts = require("./emailAlerts");
 
-async function generateDeployFolder({ count, generator, prefix }) {
-  let membersNames = [];
+function mapEntityToService(entity) {
+  const map = {
+    flows: flowService,
+    "email-alerts": emailAlerts,
+  };
 
-  for (let i = 0; i < count; i++) {
-    const newNames = await generator(i, prefix, DEPLOY_DIR);
-    membersNames = [...membersNames, ...newNames];
-  }
+  const service = map[entity || false];
 
-  return membersNames;
+  if (!service)
+    throw new Error(
+      `Please select valid entity type: \n - ${Object.keys(map).join("\n - ")}`
+    );
+
+  return service;
 }
 
-async function zipDeployFolder(filesCount, filesPrefix) {
-  const zipFilename = `./dist/${filesCount}-${filesPrefix}-Flows.zip`;
+async function zipDeployFolder({
+  filesPrefix,
+  setsCount,
+  entitiesInSet = 1,
+  membersType,
+}) {
+  const filesCount = setsCount * entitiesInSet;
+  const zipFilename = `./dist/${filesCount}-${filesPrefix}-${membersType}.zip`;
 
   const output = fs.createWriteStream(zipFilename);
   const archive = archiver("zip");
@@ -31,30 +43,35 @@ async function zipDeployFolder(filesCount, filesPrefix) {
     throw err;
   });
 
-  archive.directory(DEPLOY_DIR, false);
+  archive.directory(DEPLOY_DIR + "/", false);
   archive.pipe(output);
   archive.finalize();
 
-  console.log(`Successfully archived data set in ${zipFilename}`);
+  console.log(`Generated ${filesCount} ${membersType}`);
+  console.log(`Archived data set in ${zipFilename}`);
 
   return Promise.resolve();
 }
 
 module.exports.generate = async (entity, count, prefix) => {
   try {
-    const filesCount = flowService.filesGenFuncs.length * count;
-
     await fsExtra.emptyDir(DEPLOY_DIR);
+    const service = mapEntityToService(entity);
 
-    const membersNames = await generateDeployFolder({
-      prefix,
-      count,
-      generator: flowService.generateSet,
-    }).catch(console.error);
+    const membersNames = await service.generateSet(count, prefix, DEPLOY_DIR);
 
-    await packageService.writePackageXML(membersNames, DEPLOY_DIR);
+    await packageService.writePackageXML(
+      membersNames,
+      service.membersType,
+      DEPLOY_DIR
+    );
 
-    await zipDeployFolder(filesCount, prefix);
+    await zipDeployFolder({
+      setsCount: count,
+      filesPrefix: prefix,
+      entitiesInSet: service.entitiesInSet,
+      membersType: service.membersType,
+    });
 
     await fsExtra.emptyDir(DEPLOY_DIR);
   } catch (error) {

@@ -1,4 +1,4 @@
-module.exports = (membersNames) => {
+module.exports = (membersNames, membersType) => {
   const members = membersNames.reduce((acc, name) => {
     acc += `\t\t\t\t<members>${name}</members>\n`;
     return acc;
@@ -7,7 +7,7 @@ module.exports = (membersNames) => {
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
 ${members}
-        <name>Flow</name>
+        <name>${membersType}</name>
     </types>
     <version>48.0</version>
 </Package>
