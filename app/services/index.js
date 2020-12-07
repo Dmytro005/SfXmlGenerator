@@ -27,30 +27,38 @@ function mapEntityToService(entity) {
   return service;
 }
 
-async function zipDeployFolder({
+function zipDeployFolder({
   filesPrefix,
   setsCount,
   entitiesInSet = 1,
   membersType,
 }) {
-  const filesCount = setsCount * entitiesInSet;
-  const zipFilename = `./dist/${filesCount}-${filesPrefix}-${membersType}.zip`;
+  return new Promise((resolve, reject) => {
+    try {
+      const filesCount = setsCount * entitiesInSet;
+      const zipFilename = `./dist/${filesCount}-${filesPrefix}-${membersType}.zip`;
 
-  const output = fs.createWriteStream(zipFilename);
-  const archive = archiver("zip");
+      const output = fs.createWriteStream(zipFilename);
+      const archive = archiver("zip");
 
-  output.on("error", function (err) {
-    throw err;
+      output.on("error", (err) => {
+        reject(err);
+      });
+
+      output.on("close", () => {
+        console.log(`Generated ${filesCount} ${membersType}`);
+        console.log(`Archived data set in ${zipFilename}`);
+
+        return resolve();
+      });
+
+      archive.directory(DEPLOY_DIR, false);
+      archive.pipe(output);
+      archive.finalize();
+    } catch (e) {
+      reject(e);
+    }
   });
-
-  archive.directory(DEPLOY_DIR + "/", false);
-  archive.pipe(output);
-  archive.finalize();
-
-  console.log(`Generated ${filesCount} ${membersType}`);
-  console.log(`Archived data set in ${zipFilename}`);
-
-  return Promise.resolve();
 }
 
 module.exports.generate = async (entity, count, prefix) => {
