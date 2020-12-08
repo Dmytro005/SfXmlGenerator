@@ -1,10 +1,9 @@
-
 function generateAlert(alertName) {
   return `<alerts>
     <fullName>${alertName}</fullName>
     <ccEmails>dmytro.harazdovskiy+additional@techmagic.co</ccEmails>
     <ccEmails>dmytro.harazdovskiy+superadditional@techmagic.co</ccEmails>
-    <description>Account Email alert</description>
+    <description>${alertName} Description</description>
     <protected>false</protected>
     <recipients>
         <type>accountOwner</type>
@@ -161,20 +160,20 @@ function generateAlert(alertName) {
     </recipients>
     <senderType>CurrentUser</senderType>
     <template>unfiled$public/SalesNewCustomerEmail</template>
-</alerts>`
+</alerts>`;
 }
 
 function generateXml(membersNames) {
   return `<?xml version="1.0" encoding="UTF-8"?>
   <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
-   ${membersNames.map(name => generateAlert(name)).join('\n')}
-  </Workflow>`
+   ${membersNames.map((name) => generateAlert(name)).join("\n")}
+  </Workflow>`;
 }
 
 module.exports = (parentObject, membersNames, prefix) => {
   return {
     xml: generateXml(membersNames),
     filename: `${parentObject}.workflow`,
-    entetiesInSet: 1
-  }
+    entetiesInSet: 1,
+  };
 };

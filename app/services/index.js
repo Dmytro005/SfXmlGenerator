@@ -6,6 +6,7 @@ const path = require("path");
 const archiver = require("archiver");
 
 const DEPLOY_DIR = path.normalize(__dirname + "../../../deploy");
+const DIST_DIR = path.normalize(__dirname + "../../../dist");
 
 const packageService = require("./packageService");
 const flowService = require("./flowsService");
@@ -63,6 +64,16 @@ function zipDeployFolder({
 
 module.exports.generate = async (entity, count, prefix) => {
   try {
+    const distDir = fs.existsSync(DIST_DIR);
+    const deployDir = fs.existsSync(DEPLOY_DIR);
+
+    if (!deployDir) {
+      await fsExtra.mkdir(DEPLOY_DIR);
+    }
+    if (!distDir) {
+      await fsExtra.mkdir(DIST_DIR);
+    }
+
     await fsExtra.emptyDir(DEPLOY_DIR);
     const service = mapEntityToService(entity);
 

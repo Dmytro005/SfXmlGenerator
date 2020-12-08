@@ -9,12 +9,12 @@ const fileGen = require("./AccountEmailAlert");
 
 /**
  *
- * @param {number} i
+ * @param {number} setsCount
  * @param {string} deployPrefix
  * @param {string} deployDir
  * @returns {Promise<[]>}
  */
-async function generateSet(i, deployPrefix, deployDir) {
+async function generateSet(setsCount, deployPrefix, deployDir) {
   const workflowsDirPath = path.normalize(deployDir + "/workflows");
   const existsDir = fs.existsSync(workflowsDirPath);
   if (!existsDir) {
@@ -22,7 +22,7 @@ async function generateSet(i, deployPrefix, deployDir) {
   }
   const parentObject = "Account";
 
-  const membersNames = Array(i)
+  const membersNames = Array(setsCount)
     .fill(1)
     .map((_, i) => {
       return `EmailAlert_${i}_${deployPrefix}`;
