@@ -43,9 +43,8 @@ async function generateSet(i, deployPrefix, deployDir) {
 
 async function generateDeployFolder(count, prefix, deployDir) {
   let membersNames = [];
-
   for (let i = 0; i < count; i++) {
-    const newNames = await generateSet(count, prefix, deployDir);
+    const newNames = await generateSet(i, prefix, deployDir);
     membersNames = [...membersNames, ...newNames];
   }
 
