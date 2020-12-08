@@ -4,8 +4,8 @@ This repository represents a CLI tool for generating dummy data for Salesforce o
 
 ### How it works?
 
-The only thing you need is to choose entity type, the count of datasets and prefix of each entity.
-App would generate files and pack them into zip archive that is ready to be deployed via [workbench](https://workbench.developerforce.com/).
+The only thing you need is to choose an entity type, the count of datasets, and the prefix of each entity.
+The app would generate files and pack them into a zip archive that is ready to be deployed via [workbench](https://workbench.developerforce.com/).
 
 ### Example of usage
 
@@ -18,9 +18,9 @@ App would generate files and pack them into zip archive that is ready to be depl
    npm start generate flows 20 test_set
    ```
 
-2. Observe `./dist` folder where would be located zip (`120-test-set-Flow.zip`) with your data set.
+2. Observe the `./dist` folder where would be located zip (`120-test-set-Flow.zip`) with your data set.
 
-3. Login to your SF org https://login.salesforce.com/
+3. Log in to your SF org https://login.salesforce.com/
 
 4. Open https://workbench.developerforce.com/ and login with your salesforce org.
 
@@ -33,16 +33,16 @@ App would generate files and pack them into zip archive that is ready to be depl
 8. Observe success result. In case of any errors occurred, connect repo contributors)
    ![Workbench_1](doc/Workbench_4.png)
 
-9. Done! Check you SF org with generated dataset!
+9. Done! Check your SF org with the generated dataset!
 
 ### Supported CLI commands
 
-Generate archive for deploy.
+Generate archive for deployment.
 ```
     npm run generate [entity] [count] [prefix]
 ```
 - entity - `string`
-  - `flows` - 1 set includes 6 flows that are interlinked as a subflows
+  - `flows` - 1 set includes 6 flows that are interlinked as a sub flows
   - `email-alerts` - 1 set includes one email alert that is attached to `Account` Object
 - count - `number` count of data sets that would be generated
 - prefix - `string` string that would be attached to each entity name
