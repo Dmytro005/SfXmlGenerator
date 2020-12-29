@@ -11,11 +11,13 @@ const DIST_DIR = path.normalize(__dirname + "../../../dist");
 const packageService = require("./packageService");
 const flowService = require("./flowsService");
 const emailAlerts = require("./emailAlerts");
+const emailAlersProcessBuildersService = require("./emailAlersProcessBuildersService");
 
 function mapEntityToService(entity) {
   const map = {
     flows: flowService,
     "email-alerts": emailAlerts,
+    "email-alerts-pb": emailAlersProcessBuildersService
   };
 
   const service = map[entity || false];
@@ -76,7 +78,6 @@ module.exports.generate = async (entity, count, prefix) => {
 
     await fsExtra.emptyDir(DEPLOY_DIR);
     const service = mapEntityToService(entity);
-
     const membersNames = await service.generateSet(count, prefix, DEPLOY_DIR);
 
     await packageService.writePackageXML(
@@ -92,7 +93,7 @@ module.exports.generate = async (entity, count, prefix) => {
       membersType: service.membersType,
     });
 
-    await fsExtra.emptyDir(DEPLOY_DIR);
+    // await fsExtra.emptyDir(DEPLOY_DIR);
   } catch (error) {
     console.log(error);
   }

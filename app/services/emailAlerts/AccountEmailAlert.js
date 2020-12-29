@@ -1,8 +1,8 @@
 function generateAlert(alertName) {
   return `<alerts>
     <fullName>${alertName}</fullName>
-    <ccEmails>dmytro.harazdovskiy+additional@techmagic.co</ccEmails>
-    <ccEmails>dmytro.harazdovskiy+superadditional@techmagic.co</ccEmails>
+    <ccEmails>example@gmail.com</ccEmails>
+    <ccEmails>example@gmail.com</ccEmails>
     <description>${alertName} Description</description>
     <protected>false</protected>
     <recipients>

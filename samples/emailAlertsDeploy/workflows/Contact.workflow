@@ -2,8 +2,8 @@
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <alerts>
         <fullName>Contact_Email_alert</fullName>
-        <ccEmails>dmytro.harazdovskiy+additional@techmagic.co</ccEmails>
-        <ccEmails>dmytro.harazdovskiy+superadditional@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>Contact Email alert</description>
         <protected>false</protected>
         <recipients>
@@ -210,7 +210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00695</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00695</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -218,7 +218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00696</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00696</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -226,7 +226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00697</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00697</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -234,7 +234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00698</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00698</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -242,7 +242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00699</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00699</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -250,7 +250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_007</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_007</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -258,7 +258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0070</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0070</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -266,7 +266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00702</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00702</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -274,7 +274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00703</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00703</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -282,7 +282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00704</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00704</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -290,7 +290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00705</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00705</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -298,7 +298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00706</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00706</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -306,7 +306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00707</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00707</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -314,7 +314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00708</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00708</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -322,7 +322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00709</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00709</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -330,7 +330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0071</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0071</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -338,7 +338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00710</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00710</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -346,7 +346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00712</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00712</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -354,7 +354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00713</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00713</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -362,7 +362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00714</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00714</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -370,7 +370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00715</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00715</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -378,7 +378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00716</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00716</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -386,7 +386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00717</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00717</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -394,7 +394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00718</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00718</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -402,7 +402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00719</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00719</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -410,7 +410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0072</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0072</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -418,7 +418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00720</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00720</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -426,7 +426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00721</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00721</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -434,7 +434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00722</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00722</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -442,7 +442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00725</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00725</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -450,7 +450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00726</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00726</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -458,7 +458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0073</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0073</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -466,7 +466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00730</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00730</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -474,7 +474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00731</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00731</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -482,7 +482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00733</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00733</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -490,7 +490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00734</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00734</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -498,7 +498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00735</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00735</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -506,7 +506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00736</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00736</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -514,7 +514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00737</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00737</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -522,7 +522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00738</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00738</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -530,7 +530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00739</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00739</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -538,7 +538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0074</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0074</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -546,7 +546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00741</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00741</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -554,7 +554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00743</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00743</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -562,7 +562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00745</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00745</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -570,7 +570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00746</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00746</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -578,7 +578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00747</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00747</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -586,7 +586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00748</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00748</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -594,7 +594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00749</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00749</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -602,7 +602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00750</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00750</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -610,7 +610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00752</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00752</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -618,7 +618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00753</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00753</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -626,7 +626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00754</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00754</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -634,7 +634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00756</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00756</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -642,7 +642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00757</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00757</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -650,7 +650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00758</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00758</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -658,7 +658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0076</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0076</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -666,7 +666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00760</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00760</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -674,7 +674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00762</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00762</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -682,7 +682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00763</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00763</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -690,7 +690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00765</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00765</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -698,7 +698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00766</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00766</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -706,7 +706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00767</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00767</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -714,7 +714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00769</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00769</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -722,7 +722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00771</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00771</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -730,7 +730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00774</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00774</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -738,7 +738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00777</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00777</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -746,7 +746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00778</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00778</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -754,7 +754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00779</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00779</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -762,7 +762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0078</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0078</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -770,7 +770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00780</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00780</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -778,7 +778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00781</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00781</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -786,7 +786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00784</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00784</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -794,7 +794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00785</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00785</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -802,7 +802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00786</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00786</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -810,7 +810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00787</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00787</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -818,7 +818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00788</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00788</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -826,7 +826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0079</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0079</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -834,7 +834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00790</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00790</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -842,7 +842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00791</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00791</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -850,7 +850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00792</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00792</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -858,7 +858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00794</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00794</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -866,7 +866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00795</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00795</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -874,7 +874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00796</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00796</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -882,7 +882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00797</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00797</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -890,7 +890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00798</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00798</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -898,7 +898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_008</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_008</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -906,7 +906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0080</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0080</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -914,7 +914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00801</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00801</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -922,7 +922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00803</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00803</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -930,7 +930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00806</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00806</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -938,7 +938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00807</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00807</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -946,7 +946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00808</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00808</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -954,7 +954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00809</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00809</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -962,7 +962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0081</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0081</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -970,7 +970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00810</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00810</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -978,7 +978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00811</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00811</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -986,7 +986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00812</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00812</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -994,7 +994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00813</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00813</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1002,7 +1002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00814</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00814</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1010,7 +1010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00815</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00815</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1018,7 +1018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00816</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00816</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1026,7 +1026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00818</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00818</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1034,7 +1034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00819</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00819</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1042,7 +1042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00820</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00820</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1050,7 +1050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00821</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00821</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1058,7 +1058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00822</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00822</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1066,7 +1066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00823</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00823</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1074,7 +1074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00824</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00824</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1082,7 +1082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00825</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00825</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1090,7 +1090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00826</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00826</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1098,7 +1098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00827</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00827</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1106,7 +1106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00829</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00829</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1114,7 +1114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0083</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0083</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1122,7 +1122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00830</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00830</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1130,7 +1130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00831</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00831</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1138,7 +1138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00833</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00833</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1146,7 +1146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00834</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00834</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1154,7 +1154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00836</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00836</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1162,7 +1162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00837</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00837</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1170,7 +1170,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00838</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00838</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1178,7 +1178,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00839</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00839</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1186,7 +1186,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0084</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0084</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1194,7 +1194,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00840</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00840</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1202,7 +1202,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00841</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00841</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1210,7 +1210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00843</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00843</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1218,7 +1218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00844</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00844</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1226,7 +1226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00845</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00845</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1234,7 +1234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00847</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00847</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1242,7 +1242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00848</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00848</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1250,7 +1250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00849</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00849</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1258,7 +1258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00850</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00850</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1266,7 +1266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00853</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00853</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1274,7 +1274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00854</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00854</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1282,7 +1282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00856</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00856</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1290,7 +1290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00857</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00857</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1298,7 +1298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00859</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00859</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1306,7 +1306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0086</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0086</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1314,7 +1314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00861</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00861</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1322,7 +1322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00862</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00862</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1330,7 +1330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00863</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00863</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1338,7 +1338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00864</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00864</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1346,7 +1346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00865</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00865</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1354,7 +1354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00866</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00866</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1362,7 +1362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00867</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00867</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1370,7 +1370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00868</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00868</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1378,7 +1378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00869</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00869</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1386,7 +1386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0087</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0087</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1394,7 +1394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00870</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00870</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1402,7 +1402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00873</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00873</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1410,7 +1410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00875</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00875</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1418,7 +1418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00877</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00877</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1426,7 +1426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00878</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00878</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1434,7 +1434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00880</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00880</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1442,7 +1442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00881</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00881</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1450,7 +1450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00883</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00883</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1458,7 +1458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00884</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00884</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1466,7 +1466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00885</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00885</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1474,7 +1474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00887</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00887</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1482,7 +1482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00888</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00888</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1490,7 +1490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00889</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00889</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1498,7 +1498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00890</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00890</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1506,7 +1506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00892</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00892</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1514,7 +1514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00893</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00893</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1522,7 +1522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00894</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00894</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1530,7 +1530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00895</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00895</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1538,7 +1538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00896</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00896</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1546,7 +1546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00897</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00897</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1554,7 +1554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00899</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00899</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1562,7 +1562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_009</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_009</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1570,7 +1570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0090</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0090</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1578,7 +1578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00900</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00900</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1586,7 +1586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00901</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00901</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1594,7 +1594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00902</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00902</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1602,7 +1602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00903</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00903</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1610,7 +1610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00905</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00905</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1618,7 +1618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00907</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00907</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1626,7 +1626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0091</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0091</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1634,7 +1634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00910</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00910</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1642,7 +1642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00912</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00912</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1650,7 +1650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00913</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00913</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1658,7 +1658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00914</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00914</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1666,7 +1666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00915</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00915</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1674,7 +1674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00916</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00916</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1682,7 +1682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00917</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00917</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1690,7 +1690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0092</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0092</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1698,7 +1698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00920</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00920</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1706,7 +1706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00921</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00921</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1714,7 +1714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00922</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00922</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1722,7 +1722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00924</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00924</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1730,7 +1730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00925</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00925</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1738,7 +1738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00926</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00926</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1746,7 +1746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00928</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00928</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1754,7 +1754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00929</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00929</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1762,7 +1762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0093</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0093</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1770,7 +1770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00930</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00930</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1778,7 +1778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00931</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00931</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1786,7 +1786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00932</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00932</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1794,7 +1794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00934</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00934</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1802,7 +1802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00935</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00935</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1810,7 +1810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00936</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00936</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1818,7 +1818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00937</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00937</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1826,7 +1826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00938</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00938</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1834,7 +1834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00939</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00939</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1842,7 +1842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0094</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0094</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1850,7 +1850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00940</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00940</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1858,7 +1858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00941</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00941</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1866,7 +1866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00942</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00942</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1874,7 +1874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00946</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00946</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1882,7 +1882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00947</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00947</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1890,7 +1890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00948</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00948</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1898,7 +1898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0095</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0095</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1906,7 +1906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00950</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00950</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1914,7 +1914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00951</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00951</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1922,7 +1922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00952</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00952</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1930,7 +1930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00953</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00953</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1938,7 +1938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00955</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00955</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1946,7 +1946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00958</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00958</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1954,7 +1954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00959</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00959</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1962,7 +1962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0096</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0096</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1970,7 +1970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00961</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00961</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1978,7 +1978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00963</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00963</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1986,7 +1986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00964</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00964</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -1994,7 +1994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00965</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00965</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2002,7 +2002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00966</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00966</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2010,7 +2010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00967</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00967</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2018,7 +2018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00968</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00968</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2026,7 +2026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00969</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00969</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2034,7 +2034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0097</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0097</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2042,7 +2042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00970</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00970</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2050,7 +2050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00971</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00971</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2058,7 +2058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00973</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00973</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2066,7 +2066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00975</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00975</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2074,7 +2074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00977</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00977</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2082,7 +2082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00978</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00978</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2090,7 +2090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00979</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00979</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2098,7 +2098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0098</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0098</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2106,7 +2106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00980</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00980</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2114,7 +2114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00981</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00981</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2122,7 +2122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00982</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00982</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2130,7 +2130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00983</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00983</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2138,7 +2138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00984</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00984</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2146,7 +2146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00985</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00985</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2154,7 +2154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00986</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00986</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2162,7 +2162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00987</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00987</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2170,7 +2170,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00988</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00988</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2178,7 +2178,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00989</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00989</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2186,7 +2186,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_0099</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_0099</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2194,7 +2194,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00990</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00990</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2202,7 +2202,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00991</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00991</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2210,7 +2210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00992</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00992</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2218,7 +2218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00993</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00993</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2226,7 +2226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00994</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00994</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2234,7 +2234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00995</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00995</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2242,7 +2242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00996</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00996</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2250,7 +2250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00997</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00997</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2258,7 +2258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_00998</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_00998</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2266,7 +2266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_1000</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_1000</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2274,7 +2274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_101</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_101</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2282,7 +2282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_104</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_104</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2290,7 +2290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_105</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_105</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2298,7 +2298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_106</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_106</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2306,7 +2306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_108</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_108</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2314,7 +2314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_109</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_109</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2322,7 +2322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_11</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_11</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2330,7 +2330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_110</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_110</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2338,7 +2338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_111</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_111</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2346,7 +2346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_114</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_114</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2354,7 +2354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_117</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_117</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2362,7 +2362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_119</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_119</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2370,7 +2370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_12</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_12</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2378,7 +2378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_120</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_120</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2386,7 +2386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_121</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_121</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2394,7 +2394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_122</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_122</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2402,7 +2402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_125</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_125</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2410,7 +2410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_126</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_126</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2418,7 +2418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_128</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_128</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2426,7 +2426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_129</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_129</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2434,7 +2434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_13</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_13</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2442,7 +2442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_131</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_131</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2450,7 +2450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_133</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_133</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2458,7 +2458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_134</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_134</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2466,7 +2466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_135</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_135</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2474,7 +2474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_137</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_137</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2482,7 +2482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_138</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_138</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2490,7 +2490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_139</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_139</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2498,7 +2498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_14</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_14</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2506,7 +2506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_142</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_142</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2514,7 +2514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_143</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_143</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2522,7 +2522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_144</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_144</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2530,7 +2530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_145</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_145</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2538,7 +2538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_146</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_146</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2546,7 +2546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_147</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_147</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2554,7 +2554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_148</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_148</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2562,7 +2562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_149</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_149</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2570,7 +2570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_15</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_15</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2578,7 +2578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_150</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_150</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2586,7 +2586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_152</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_152</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2594,7 +2594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_154</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_154</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2602,7 +2602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_155</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_155</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2610,7 +2610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_156</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_156</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2618,7 +2618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_157</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_157</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2626,7 +2626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_158</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_158</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2634,7 +2634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_16</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_16</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2642,7 +2642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_160</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_160</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2650,7 +2650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_161</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_161</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2658,7 +2658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_162</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_162</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2666,7 +2666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_163</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_163</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2674,7 +2674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_164</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_164</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2682,7 +2682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_165</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_165</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2690,7 +2690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_166</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_166</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2698,7 +2698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_169</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_169</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2706,7 +2706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_17</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_17</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2714,7 +2714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_170</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_170</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2722,7 +2722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_172</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_172</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2730,7 +2730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_173</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_173</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2738,7 +2738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_175</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_175</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2746,7 +2746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_176</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_176</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2754,7 +2754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_177</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_177</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2762,7 +2762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_178</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_178</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2770,7 +2770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_18</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_18</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2778,7 +2778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_180</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_180</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2786,7 +2786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_181</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_181</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2794,7 +2794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_182</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_182</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2802,7 +2802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_183</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_183</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2810,7 +2810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_184</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_184</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2818,7 +2818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_186</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_186</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2826,7 +2826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_187</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_187</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2834,7 +2834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_188</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_188</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2842,7 +2842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_189</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_189</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2850,7 +2850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_19</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_19</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2858,7 +2858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_190</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_190</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2866,7 +2866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_191</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_191</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2874,7 +2874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_192</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_192</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2882,7 +2882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_193</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_193</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2890,7 +2890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_194</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_194</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2898,7 +2898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_195</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_195</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2906,7 +2906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_197</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_197</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2914,7 +2914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_198</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_198</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2922,7 +2922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_199</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_199</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2930,7 +2930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_2</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_2</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2938,7 +2938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_20</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_20</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2946,7 +2946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_201</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_201</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2954,7 +2954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_202</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_202</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2962,7 +2962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_204</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_204</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2970,7 +2970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_205</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_205</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2978,7 +2978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_206</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_206</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2986,7 +2986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_208</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_208</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -2994,7 +2994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_21</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_21</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3002,7 +3002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_212</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_212</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3010,7 +3010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_213</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_213</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3018,7 +3018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_214</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_214</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3026,7 +3026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_215</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_215</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3034,7 +3034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_216</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_216</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3042,7 +3042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_217</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_217</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3050,7 +3050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_218</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_218</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3058,7 +3058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_219</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_219</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3066,7 +3066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_220</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_220</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3074,7 +3074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_223</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_223</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3082,7 +3082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_225</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_225</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3090,7 +3090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_227</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_227</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3098,7 +3098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_228</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_228</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3106,7 +3106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_230</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_230</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3114,7 +3114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_232</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_232</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3122,7 +3122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_233</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_233</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3130,7 +3130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_234</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_234</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3138,7 +3138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_235</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_235</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3146,7 +3146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_238</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_238</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3154,7 +3154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_239</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_239</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3162,7 +3162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_24</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_24</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3170,7 +3170,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_241</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_241</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3178,7 +3178,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_242</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_242</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3186,7 +3186,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_243</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_243</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3194,7 +3194,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_245</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_245</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3202,7 +3202,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_246</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_246</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3210,7 +3210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_247</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_247</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3218,7 +3218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_248</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_248</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3226,7 +3226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_249</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_249</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3234,7 +3234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_25</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_25</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3242,7 +3242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_251</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_251</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3250,7 +3250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_252</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_252</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3258,7 +3258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_254</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_254</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3266,7 +3266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_256</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_256</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3274,7 +3274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_257</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_257</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3282,7 +3282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_258</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_258</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3290,7 +3290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_259</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_259</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3298,7 +3298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_26</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_26</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3306,7 +3306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_261</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_261</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3314,7 +3314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_263</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_263</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3322,7 +3322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_266</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_266</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3330,7 +3330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_268</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_268</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3338,7 +3338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_269</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_269</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3346,7 +3346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_27</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_27</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3354,7 +3354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_270</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_270</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3362,7 +3362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_273</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_273</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3370,7 +3370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_275</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_275</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3378,7 +3378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_276</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_276</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3386,7 +3386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_277</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_277</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3394,7 +3394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_278</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_278</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3402,7 +3402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_28</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_28</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3410,7 +3410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_280</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_280</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3418,7 +3418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_281</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_281</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3426,7 +3426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_282</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_282</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3434,7 +3434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_283</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_283</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3442,7 +3442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_284</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_284</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3450,7 +3450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_286</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_286</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3458,7 +3458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_287</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_287</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3466,7 +3466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_288</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_288</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3474,7 +3474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_289</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_289</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3482,7 +3482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_290</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_290</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3490,7 +3490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_291</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_291</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3498,7 +3498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_292</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_292</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3506,7 +3506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_294</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_294</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3514,7 +3514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_298</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_298</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3522,7 +3522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_299</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_299</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3530,7 +3530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_3</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_3</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3538,7 +3538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_30</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_30</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3546,7 +3546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_300</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_300</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3554,7 +3554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_301</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_301</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3562,7 +3562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_302</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_302</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3570,7 +3570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_303</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_303</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3578,7 +3578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_304</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_304</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3586,7 +3586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_305</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_305</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3594,7 +3594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_306</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_306</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3602,7 +3602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_307</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_307</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3610,7 +3610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_31</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_31</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3618,7 +3618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_310</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_310</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3626,7 +3626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_313</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_313</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3634,7 +3634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_314</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_314</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3642,7 +3642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_316</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_316</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3650,7 +3650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_318</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_318</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3658,7 +3658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_319</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_319</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3666,7 +3666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_32</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_32</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3674,7 +3674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_320</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_320</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3682,7 +3682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_322</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_322</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3690,7 +3690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_323</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_323</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3698,7 +3698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_324</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_324</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3706,7 +3706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_325</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_325</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3714,7 +3714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_328</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_328</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3722,7 +3722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_329</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_329</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3730,7 +3730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_33</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_33</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3738,7 +3738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_333</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_333</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3746,7 +3746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_334</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_334</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3754,7 +3754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_335</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_335</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3762,7 +3762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_336</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_336</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3770,7 +3770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_337</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_337</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3778,7 +3778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_338</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_338</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3786,7 +3786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_34</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_34</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3794,7 +3794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_340</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_340</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3802,7 +3802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_341</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_341</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3810,7 +3810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_342</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_342</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3818,7 +3818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_343</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_343</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3826,7 +3826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_344</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_344</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3834,7 +3834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_345</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_345</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3842,7 +3842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_346</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_346</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3850,7 +3850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_347</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_347</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3858,7 +3858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_348</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_348</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3866,7 +3866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_349</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_349</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3874,7 +3874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_35</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_35</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3882,7 +3882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_350</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_350</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3890,7 +3890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_351</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_351</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3898,7 +3898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_352</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_352</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3906,7 +3906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_353</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_353</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3914,7 +3914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_356</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_356</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3922,7 +3922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_357</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_357</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3930,7 +3930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_358</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_358</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3938,7 +3938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_359</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_359</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3946,7 +3946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_36</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_36</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3954,7 +3954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_360</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_360</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3962,7 +3962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_361</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_361</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3970,7 +3970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_362</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_362</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3978,7 +3978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_366</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_366</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3986,7 +3986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_367</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_367</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -3994,7 +3994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_369</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_369</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4002,7 +4002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_370</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_370</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4010,7 +4010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_371</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_371</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4018,7 +4018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_372</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_372</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4026,7 +4026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_373</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_373</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4034,7 +4034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_374</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_374</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4042,7 +4042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_376</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_376</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4050,7 +4050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_379</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_379</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4058,7 +4058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_38</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_38</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4066,7 +4066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_382</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_382</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4074,7 +4074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_383</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_383</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4082,7 +4082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_384</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_384</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4090,7 +4090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_386</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_386</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4098,7 +4098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_387</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_387</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4106,7 +4106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_388</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_388</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4114,7 +4114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_389</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_389</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4122,7 +4122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_39</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_39</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4130,7 +4130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_391</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_391</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4138,7 +4138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_392</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_392</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4146,7 +4146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_393</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_393</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4154,7 +4154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_394</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_394</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4162,7 +4162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_395</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_395</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4170,7 +4170,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_397</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_397</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4178,7 +4178,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_398</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_398</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4186,7 +4186,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_4</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_4</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4194,7 +4194,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_40</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_40</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4202,7 +4202,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_400</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_400</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4210,7 +4210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_401</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_401</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4218,7 +4218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_403</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_403</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4226,7 +4226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_404</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_404</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4234,7 +4234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_405</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_405</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4242,7 +4242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_406</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_406</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4250,7 +4250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_408</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_408</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4258,7 +4258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_409</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_409</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4266,7 +4266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_41</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_41</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4274,7 +4274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_410</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_410</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4282,7 +4282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_411</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_411</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4290,7 +4290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_414</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_414</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4298,7 +4298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_418</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_418</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4306,7 +4306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_419</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_419</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4314,7 +4314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_420</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_420</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4322,7 +4322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_421</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_421</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4330,7 +4330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_422</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_422</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4338,7 +4338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_425</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_425</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4346,7 +4346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_426</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_426</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4354,7 +4354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_429</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_429</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4362,7 +4362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_43</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_43</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4370,7 +4370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_430</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_430</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4378,7 +4378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_432</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_432</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4386,7 +4386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_433</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_433</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4394,7 +4394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_434</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_434</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4402,7 +4402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_435</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_435</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4410,7 +4410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_437</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_437</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4418,7 +4418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_438</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_438</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4426,7 +4426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_439</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_439</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4434,7 +4434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_44</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_44</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4442,7 +4442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_440</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_440</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4450,7 +4450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_441</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_441</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4458,7 +4458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_443</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_443</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4466,7 +4466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_444</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_444</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4474,7 +4474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_445</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_445</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4482,7 +4482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_446</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_446</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4490,7 +4490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_447</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_447</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4498,7 +4498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_448</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_448</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4506,7 +4506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_451</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_451</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4514,7 +4514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_452</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_452</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4522,7 +4522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_453</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_453</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4530,7 +4530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_454</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_454</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4538,7 +4538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_457</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_457</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4546,7 +4546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_46</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_46</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4554,7 +4554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_460</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_460</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4562,7 +4562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_461</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_461</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4570,7 +4570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_463</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_463</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4578,7 +4578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_464</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_464</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4586,7 +4586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_466</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_466</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4594,7 +4594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_467</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_467</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4602,7 +4602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_47</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_47</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4610,7 +4610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_470</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_470</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4618,7 +4618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_471</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_471</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4626,7 +4626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_472</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_472</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4634,7 +4634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_473</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_473</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4642,7 +4642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_474</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_474</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4650,7 +4650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_475</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_475</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4658,7 +4658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_476</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_476</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4666,7 +4666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_478</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_478</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4674,7 +4674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_479</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_479</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4682,7 +4682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_480</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_480</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4690,7 +4690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_482</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_482</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4698,7 +4698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_484</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_484</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4706,7 +4706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_486</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_486</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4714,7 +4714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_487</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_487</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4722,7 +4722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_489</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_489</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4730,7 +4730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_49</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_49</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4738,7 +4738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_490</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_490</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4746,7 +4746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_491</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_491</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4754,7 +4754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_494</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_494</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4762,7 +4762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_497</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_497</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4770,7 +4770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_499</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_499</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4778,7 +4778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_5</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_5</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4786,7 +4786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_500</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_500</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4794,7 +4794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_501</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_501</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4802,7 +4802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_503</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_503</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4810,7 +4810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_504</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_504</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4818,7 +4818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_505</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_505</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4826,7 +4826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_506</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_506</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4834,7 +4834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_507</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_507</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4842,7 +4842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_509</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_509</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4850,7 +4850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_51</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_51</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4858,7 +4858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_510</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_510</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4866,7 +4866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_512</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_512</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4874,7 +4874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_513</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_513</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4882,7 +4882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_514</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_514</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4890,7 +4890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_515</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_515</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4898,7 +4898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_516</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_516</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4906,7 +4906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_517</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_517</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4914,7 +4914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_518</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_518</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4922,7 +4922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_519</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_519</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4930,7 +4930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_52</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_52</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4938,7 +4938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_520</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_520</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4946,7 +4946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_521</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_521</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4954,7 +4954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_522</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_522</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4962,7 +4962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_523</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_523</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4970,7 +4970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_524</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_524</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4978,7 +4978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_526</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_526</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4986,7 +4986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_527</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_527</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -4994,7 +4994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_528</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_528</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5002,7 +5002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_53</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_53</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5010,7 +5010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_530</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_530</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5018,7 +5018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_531</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_531</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5026,7 +5026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_532</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_532</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5034,7 +5034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_534</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_534</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5042,7 +5042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_535</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_535</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5050,7 +5050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_536</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_536</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5058,7 +5058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_537</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_537</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5066,7 +5066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_538</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_538</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5074,7 +5074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_539</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_539</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5082,7 +5082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_54</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_54</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5090,7 +5090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_540</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_540</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5098,7 +5098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_541</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_541</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5106,7 +5106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_542</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_542</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5114,7 +5114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_543</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_543</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5122,7 +5122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_544</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_544</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5130,7 +5130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_545</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_545</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5138,7 +5138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_548</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_548</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5146,7 +5146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_55</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_55</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5154,7 +5154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_550</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_550</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5162,7 +5162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_553</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_553</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5170,7 +5170,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_555</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_555</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5178,7 +5178,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_556</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_556</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5186,7 +5186,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_557</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_557</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5194,7 +5194,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_559</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_559</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5202,7 +5202,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_56</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_56</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5210,7 +5210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_561</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_561</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5218,7 +5218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_562</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_562</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5226,7 +5226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_564</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_564</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5234,7 +5234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_565</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_565</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5242,7 +5242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_566</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_566</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5250,7 +5250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_567</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_567</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5258,7 +5258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_568</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_568</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5266,7 +5266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_569</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_569</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5274,7 +5274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_570</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_570</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5282,7 +5282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_571</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_571</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5290,7 +5290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_572</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_572</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5298,7 +5298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_574</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_574</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5306,7 +5306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_575</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_575</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5314,7 +5314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_576</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_576</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5322,7 +5322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_577</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_577</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5330,7 +5330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_578</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_578</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5338,7 +5338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_579</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_579</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5346,7 +5346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_58</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_58</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5354,7 +5354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_581</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_581</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5362,7 +5362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_583</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_583</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5370,7 +5370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_584</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_584</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5378,7 +5378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_587</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_587</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5386,7 +5386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_588</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_588</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5394,7 +5394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_589</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_589</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5402,7 +5402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_59</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_59</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5410,7 +5410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_591</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_591</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5418,7 +5418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_592</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_592</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5426,7 +5426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_593</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_593</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5434,7 +5434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_597</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_597</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5442,7 +5442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_6</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_6</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5450,7 +5450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_600</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_600</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5458,7 +5458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_601</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_601</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5466,7 +5466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_602</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_602</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5474,7 +5474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_603</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_603</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5482,7 +5482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_604</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_604</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5490,7 +5490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_605</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_605</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5498,7 +5498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_606</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_606</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5506,7 +5506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_607</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_607</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5514,7 +5514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_608</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_608</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5522,7 +5522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_609</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_609</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5530,7 +5530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_61</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_61</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5538,7 +5538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_610</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_610</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5546,7 +5546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_611</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_611</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5554,7 +5554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_613</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_613</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5562,7 +5562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_614</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_614</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5570,7 +5570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_615</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_615</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5578,7 +5578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_616</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_616</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5586,7 +5586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_617</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_617</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5594,7 +5594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_618</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_618</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5602,7 +5602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_619</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_619</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5610,7 +5610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_62</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_62</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5618,7 +5618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_620</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_620</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5626,7 +5626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_621</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_621</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5634,7 +5634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_622</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_622</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5642,7 +5642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_623</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_623</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5650,7 +5650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_624</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_624</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5658,7 +5658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_625</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_625</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5666,7 +5666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_626</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_626</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5674,7 +5674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_627</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_627</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5682,7 +5682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_629</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_629</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5690,7 +5690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_63</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_63</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5698,7 +5698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_630</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_630</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5706,7 +5706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_631</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_631</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5714,7 +5714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_632</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_632</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5722,7 +5722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_633</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_633</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5730,7 +5730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_634</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_634</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5738,7 +5738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_636</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_636</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5746,7 +5746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_637</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_637</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5754,7 +5754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_638</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_638</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5762,7 +5762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_639</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_639</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5770,7 +5770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_64</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_64</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5778,7 +5778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_640</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_640</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5786,7 +5786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_642</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_642</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5794,7 +5794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_643</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_643</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5802,7 +5802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_648</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_648</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5810,7 +5810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_649</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_649</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5818,7 +5818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_65</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_65</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5826,7 +5826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_650</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_650</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5834,7 +5834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_651</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_651</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5842,7 +5842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_652</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_652</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5850,7 +5850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_653</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_653</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5858,7 +5858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_655</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_655</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5866,7 +5866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_657</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_657</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5874,7 +5874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_658</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_658</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5882,7 +5882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_659</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_659</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5890,7 +5890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_66</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_66</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5898,7 +5898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_660</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_660</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5906,7 +5906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_661</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_661</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5914,7 +5914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_662</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_662</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5922,7 +5922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_663</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_663</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5930,7 +5930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_664</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_664</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5938,7 +5938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_665</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_665</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5946,7 +5946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_666</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_666</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5954,7 +5954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_668</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_668</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5962,7 +5962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_67</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_67</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5970,7 +5970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_671</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_671</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5978,7 +5978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_672</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_672</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5986,7 +5986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_674</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_674</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -5994,7 +5994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_675</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_675</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6002,7 +6002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_676</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_676</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6010,7 +6010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_677</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_677</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6018,7 +6018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_678</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_678</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6026,7 +6026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_679</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_679</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6034,7 +6034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_68</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_68</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6042,7 +6042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_680</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_680</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6050,7 +6050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_681</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_681</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6058,7 +6058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_682</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_682</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6066,7 +6066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_684</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_684</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6074,7 +6074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_685</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_685</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6082,7 +6082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_686</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_686</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6090,7 +6090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_687</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_687</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6098,7 +6098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_688</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_688</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6106,7 +6106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_689</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_689</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6114,7 +6114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_69</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_69</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6122,7 +6122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_690</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_690</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6130,7 +6130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_693</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_693</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6138,7 +6138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_695</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_695</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6146,7 +6146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_697</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_697</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6154,7 +6154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_698</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_698</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6162,7 +6162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_7</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_7</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6170,7 +6170,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_70</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_70</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6178,7 +6178,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_700</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_700</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6186,7 +6186,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_701</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_701</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6194,7 +6194,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_703</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_703</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6202,7 +6202,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_705</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_705</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6210,7 +6210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_707</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_707</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6218,7 +6218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_708</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_708</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6226,7 +6226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_71</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_71</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6234,7 +6234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_710</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_710</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6242,7 +6242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_711</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_711</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6250,7 +6250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_712</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_712</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6258,7 +6258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_714</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_714</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6266,7 +6266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_716</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_716</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6274,7 +6274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_717</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_717</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6282,7 +6282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_719</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_719</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6290,7 +6290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_721</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_721</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6298,7 +6298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_722</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_722</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6306,7 +6306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_724</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_724</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6314,7 +6314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_725</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_725</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6322,7 +6322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_726</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_726</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6330,7 +6330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_727</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_727</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6338,7 +6338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_728</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_728</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6346,7 +6346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_729</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_729</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6354,7 +6354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_730</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_730</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6362,7 +6362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_731</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_731</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6370,7 +6370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_732</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_732</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6378,7 +6378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_734</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_734</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6386,7 +6386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_735</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_735</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6394,7 +6394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_737</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_737</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6402,7 +6402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_738</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_738</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6410,7 +6410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_739</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_739</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6418,7 +6418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_74</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_74</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6426,7 +6426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_740</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_740</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6434,7 +6434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_741</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_741</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6442,7 +6442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_742</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_742</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6450,7 +6450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_743</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_743</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6458,7 +6458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_745</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_745</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6466,7 +6466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_746</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_746</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6474,7 +6474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_748</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_748</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6482,7 +6482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_75</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_75</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6490,7 +6490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_750</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_750</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6498,7 +6498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_751</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_751</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6506,7 +6506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_752</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_752</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6514,7 +6514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_754</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_754</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6522,7 +6522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_755</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_755</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6530,7 +6530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_756</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_756</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6538,7 +6538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_758</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_758</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6546,7 +6546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_760</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_760</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6554,7 +6554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_762</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_762</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6562,7 +6562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_765</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_765</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6570,7 +6570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_766</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_766</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6578,7 +6578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_768</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_768</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6586,7 +6586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_769</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_769</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6594,7 +6594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_77</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_77</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6602,7 +6602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_770</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_770</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6610,7 +6610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_771</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_771</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6618,7 +6618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_772</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_772</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6626,7 +6626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_773</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_773</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6634,7 +6634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_774</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_774</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6642,7 +6642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_775</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_775</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6650,7 +6650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_776</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_776</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6658,7 +6658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_777</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_777</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6666,7 +6666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_778</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_778</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6674,7 +6674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_78</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_78</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6682,7 +6682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_780</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_780</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6690,7 +6690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_781</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_781</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6698,7 +6698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_782</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_782</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6706,7 +6706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_783</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_783</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6714,7 +6714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_784</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_784</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6722,7 +6722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_785</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_785</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6730,7 +6730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_788</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_788</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6738,7 +6738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_789</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_789</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6746,7 +6746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_790</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_790</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6754,7 +6754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_791</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_791</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6762,7 +6762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_792</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_792</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6770,7 +6770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_793</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_793</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6778,7 +6778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_795</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_795</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6786,7 +6786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_796</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_796</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6794,7 +6794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_797</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_797</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6802,7 +6802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_798</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_798</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6810,7 +6810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_799</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_799</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6818,7 +6818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_8</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_8</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6826,7 +6826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_80</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_80</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6834,7 +6834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_800</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_800</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6842,7 +6842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_801</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_801</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6850,7 +6850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_802</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_802</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6858,7 +6858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_803</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_803</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6866,7 +6866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_804</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_804</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6874,7 +6874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_806</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_806</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6882,7 +6882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_808</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_808</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6890,7 +6890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_809</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_809</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6898,7 +6898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_810</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_810</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6906,7 +6906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_811</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_811</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6914,7 +6914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_812</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_812</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6922,7 +6922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_813</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_813</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6930,7 +6930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_814</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_814</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6938,7 +6938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_815</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_815</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6946,7 +6946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_816</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_816</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6954,7 +6954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_817</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_817</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6962,7 +6962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_818</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_818</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6970,7 +6970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_819</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_819</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6978,7 +6978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_82</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_82</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6986,7 +6986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_820</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_820</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -6994,7 +6994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_821</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_821</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7002,7 +7002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_823</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_823</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7010,7 +7010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_824</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_824</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7018,7 +7018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_825</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_825</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7026,7 +7026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_826</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_826</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7034,7 +7034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_827</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_827</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7042,7 +7042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_828</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_828</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7050,7 +7050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_829</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_829</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7058,7 +7058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_830</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_830</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7066,7 +7066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_831</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_831</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7074,7 +7074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_832</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_832</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7082,7 +7082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_833</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_833</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7090,7 +7090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_835</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_835</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7098,7 +7098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_836</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_836</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7106,7 +7106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_84</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_84</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7114,7 +7114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_840</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_840</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7122,7 +7122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_842</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_842</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7130,7 +7130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_845</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_845</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7138,7 +7138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_846</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_846</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7146,7 +7146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_847</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_847</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7154,7 +7154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_848</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_848</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7162,7 +7162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_85</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_85</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7170,7 +7170,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_850</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_850</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7178,7 +7178,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_851</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_851</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7186,7 +7186,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_853</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_853</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7194,7 +7194,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_854</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_854</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7202,7 +7202,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_855</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_855</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7210,7 +7210,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_856</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_856</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7218,7 +7218,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_857</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_857</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7226,7 +7226,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_859</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_859</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7234,7 +7234,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_86</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_86</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7242,7 +7242,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_860</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_860</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7250,7 +7250,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_862</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_862</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7258,7 +7258,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_863</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_863</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7266,7 +7266,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_864</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_864</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7274,7 +7274,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_866</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_866</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7282,7 +7282,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_867</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_867</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7290,7 +7290,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_869</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_869</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7298,7 +7298,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_87</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_87</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7306,7 +7306,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_870</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_870</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7314,7 +7314,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_873</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_873</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7322,7 +7322,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_876</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_876</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7330,7 +7330,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_877</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_877</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7338,7 +7338,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_878</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_878</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7346,7 +7346,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_879</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_879</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7354,7 +7354,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_88</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_88</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7362,7 +7362,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_880</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_880</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7370,7 +7370,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_881</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_881</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7378,7 +7378,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_882</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_882</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7386,7 +7386,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_883</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_883</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7394,7 +7394,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_884</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_884</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7402,7 +7402,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_885</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_885</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7410,7 +7410,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_886</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_886</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7418,7 +7418,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_887</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_887</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7426,7 +7426,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_888</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_888</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7434,7 +7434,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_89</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_89</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7442,7 +7442,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_890</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_890</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7450,7 +7450,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_892</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_892</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7458,7 +7458,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_894</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_894</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7466,7 +7466,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_895</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_895</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7474,7 +7474,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_896</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_896</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7482,7 +7482,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_897</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_897</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7490,7 +7490,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_898</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_898</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7498,7 +7498,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_899</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_899</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7506,7 +7506,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_9</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_9</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7514,7 +7514,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_901</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_901</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7522,7 +7522,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_904</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_904</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7530,7 +7530,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_905</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_905</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7538,7 +7538,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_906</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_906</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7546,7 +7546,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_907</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_907</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7554,7 +7554,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_908</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_908</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7562,7 +7562,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_909</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_909</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7570,7 +7570,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_910</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_910</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7578,7 +7578,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_911</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_911</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7586,7 +7586,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_912</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_912</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7594,7 +7594,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_913</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_913</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7602,7 +7602,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_914</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_914</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7610,7 +7610,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_915</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_915</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7618,7 +7618,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_916</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_916</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7626,7 +7626,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_917</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_917</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7634,7 +7634,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_918</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_918</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7642,7 +7642,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_919</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_919</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7650,7 +7650,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_92</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_92</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7658,7 +7658,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_920</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_920</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7666,7 +7666,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_921</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_921</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7674,7 +7674,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_922</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_922</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7682,7 +7682,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_925</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_925</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7690,7 +7690,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_926</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_926</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7698,7 +7698,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_927</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_927</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7706,7 +7706,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_928</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_928</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7714,7 +7714,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_929</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_929</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7722,7 +7722,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_93</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_93</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7730,7 +7730,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_930</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_930</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7738,7 +7738,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_931</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_931</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7746,7 +7746,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_932</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_932</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7754,7 +7754,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_933</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_933</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7762,7 +7762,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_934</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_934</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7770,7 +7770,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_935</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_935</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7778,7 +7778,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_936</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_936</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7786,7 +7786,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_937</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_937</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7794,7 +7794,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_938</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_938</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7802,7 +7802,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_939</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_939</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7810,7 +7810,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_94</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_94</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7818,7 +7818,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_941</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_941</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7826,7 +7826,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_942</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_942</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7834,7 +7834,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_944</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_944</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7842,7 +7842,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_945</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_945</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7850,7 +7850,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_947</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_947</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7858,7 +7858,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_948</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_948</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7866,7 +7866,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_949</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_949</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7874,7 +7874,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_95</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_95</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7882,7 +7882,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_952</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_952</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7890,7 +7890,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_953</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_953</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7898,7 +7898,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_954</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_954</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7906,7 +7906,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_955</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_955</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7914,7 +7914,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_956</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_956</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7922,7 +7922,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_957</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_957</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7930,7 +7930,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_959</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_959</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7938,7 +7938,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_96</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_96</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7946,7 +7946,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_961</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_961</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7954,7 +7954,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_963</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_963</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7962,7 +7962,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_964</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_964</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7970,7 +7970,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_965</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_965</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7978,7 +7978,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_966</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_966</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7986,7 +7986,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_967</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_967</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -7994,7 +7994,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_968</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_968</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8002,7 +8002,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_97</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_97</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8010,7 +8010,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_970</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_970</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8018,7 +8018,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_971</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_971</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8026,7 +8026,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_974</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_974</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8034,7 +8034,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_975</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_975</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8042,7 +8042,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_977</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_977</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8050,7 +8050,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_979</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_979</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8058,7 +8058,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_98</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_98</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8066,7 +8066,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_980</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_980</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8074,7 +8074,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_982</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_982</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8082,7 +8082,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_983</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_983</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8090,7 +8090,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_985</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_985</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8098,7 +8098,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_988</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_988</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8106,7 +8106,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_989</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_989</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8114,7 +8114,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_99</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_99</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8122,7 +8122,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_990</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_990</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8130,7 +8130,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_993</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_993</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8138,7 +8138,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_994</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_994</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8146,7 +8146,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_996</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_996</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8154,7 +8154,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_997</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_997</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>
@@ -8162,7 +8162,7 @@
     </alerts>
     <alerts>
         <fullName>email_alert_998</fullName>
-        <ccEmails>dmytro.harazdovskiy+test@techmagic.co</ccEmails>
+        <ccEmails>example@gmail.com</ccEmails>
         <description>email_alert_998</description>
         <protected>false</protected>
         <senderType>CurrentUser</senderType>

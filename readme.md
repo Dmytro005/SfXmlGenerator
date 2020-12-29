@@ -44,6 +44,7 @@ Generate archive for deployment.
 - entity - `string`
   - `flows` - 1 set includes 6 flows that are interlinked as a sub flows
   - `email-alerts` - 1 set includes one email alert that is attached to `Account` Object
+  - `email-alerts-pb` - 1 set includes two email alert that is used in process builders and linked to `Account` Object
 - count - `number` count of data sets that would be generated
 - prefix - `string` string that would be attached to each entity name
 
